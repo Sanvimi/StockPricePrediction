@@ -13,10 +13,8 @@ This project demonstrates how to use **Support Vector Regression (SVR)** to pred
 stock_price_prediction_svr/
 ├─ README.md
 ├─ requirements.txt
-├─ data/
-│  └─ aapl_sample.csv
-└─ src/
-   └─ app.py
+├─aapl_sample.csv
+└─ app.py
 ```
 
 ## 1) Setup
